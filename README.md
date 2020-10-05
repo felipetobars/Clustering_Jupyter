@@ -26,5 +26,6 @@ _Se recomienda leer el reporte final donde se explica cuales variables se deben 
     ```
          source kittiv/bin/activate
         ```
+        
   (Las instalaciones de las librerías se hicieron por medio de pip)
  
