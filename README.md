@@ -20,15 +20,15 @@ python3 -m venv --system-site-packages ./kittiv
    
    Para iniciar el entorno virtual:
    
-          ```
-         source kittiv/bin/activate
-        ```
+```
+source kittiv/bin/activate
+ ```  
    
    Para cerrar el entorno virtual:
    
-    ```
-         deactivate
-        ```
+ ```
+deactivate
+ ```  
         
   (Las instalaciones de las librerías se hicieron por medio de pip)
  
