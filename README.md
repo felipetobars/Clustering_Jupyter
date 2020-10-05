@@ -1,6 +1,7 @@
 # Clustering_Jupyter
 
 _Se recomienda leer el reporte final donde se explica cuales variables se deben modificar para leer los datos binarios y para ajustar los parámetros de los algoritmos implementados._
+## Comenzando 🚀
 
 ### Pre-requisitos 📋
   El siguiente código fue probado en Jupyter Lab con python3.
@@ -44,7 +45,7 @@ Para más documentación sobre HDBSCAN: https://hdbscan.readthedocs.io/en/latest
 
 Para más documentación sobre algortimos de clustering con scikit learn: https://scikit-learn.org/stable/modules/clustering.html
 
-### Abrir archivo .ipynb en Jupyter⚙️
+## Abrir archivo .ipynb en Jupyter⚙️
 
 Se usa el siguiente comando para ejecutar Jupyter Lab (con el entorno virtual **activado**):
 ```
