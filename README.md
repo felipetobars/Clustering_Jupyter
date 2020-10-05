@@ -13,11 +13,9 @@ _Se recomienda leer el reporte final donde se explica cuales variables se deben 
  
   
   Ejemplo:
-  
-      ```
-     python3 -m venv --system-site-packages ./kittiv
-    ```
-    
+```
+ python3 -m venv --system-site-packages ./kittiv
+ ```  
    Para iniciar el entorno virtual:
           ```
          source kittiv/bin/activate
