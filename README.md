@@ -29,7 +29,8 @@ python3 -m venv --system-site-packages ./kittiv
         
   (Las instalaciones de las librerías se hicieron por medio de pip)
  
-## Librerías a instalar 🔧
+## Librerías especiales 🔧
 ```
-Da un ejemplo
+pip install open3d-python
+pip install hdbscan
 ```
