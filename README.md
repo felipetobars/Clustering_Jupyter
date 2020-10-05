@@ -51,4 +51,4 @@ Se usa el siguiente comando para ejecutar Jupyter Lab (con el entorno virtual **
 jupyter lab
 ```
 
-(El archivo .ipynb puede correr en otro entorno **local** difente al de Jupyter, pero se presentan problemas en entornos como el de Google Colab porque no permite ejecutar las ventanas emergentes de Open3D).
+(El archivo .ipynb puede correr en otro entorno **local** diferente al de Jupyter, pero se presentan problemas en entornos como el de Google Colab porque no permite abrir las ventanas emergentes de Open3D).
