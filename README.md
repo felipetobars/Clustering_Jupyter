@@ -29,8 +29,12 @@ python3 -m venv --system-site-packages ./kittiv
         
   (Las instalaciones de las librerías se hicieron por medio de pip)
  
-## Librerías especiales 🔧
+## Instalar librerías especiales 🔧
 ```
 pip install open3d-python
 pip install hdbscan
 ```
+
+Para más documentación sobre Open3D: http://www.open3d.org/docs/release/index.html
+Para más documentación sobre HDBSCAN: https://hdbscan.readthedocs.io/en/latest/index.html
+Para más documentación sobre algortimos de clusterin con scikit learn: https://scikit-learn.org/stable/modules/clustering.html
