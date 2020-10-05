@@ -29,3 +29,7 @@ python3 -m venv --system-site-packages ./kittiv
         
   (Las instalaciones de las librerías se hicieron por medio de pip)
  
+## Librerías a instalar 🔧
+```
+Da un ejemplo
+```
