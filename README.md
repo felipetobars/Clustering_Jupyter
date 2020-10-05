@@ -10,16 +10,19 @@ _Se recomienda leer el reporte final donde se explica cuales variables se deben 
   En una terminal:
   
   python3 -m venv --system-site-packages ./<nombre_del_entorno>
+ 
   
   Ejemplo:
+  
       ```
      python3 -m venv --system-site-packages ./kittiv
     ```
-      Para iniciar el entorno virtual:
+    
+   Para iniciar el entorno virtual:
           ```
          source kittiv/bin/activate
         ```
-      Para cerrar el entorno virtual:
+   Para cerrar el entorno virtual:
     ```
          source kittiv/bin/activate
         ```
