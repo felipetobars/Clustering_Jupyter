@@ -2,7 +2,7 @@
 
 _Se recomienda leer el reporte final donde se explica cuales variables se deben modificar para leer los datos binarios y para ajustar los parámetros de los algoritmos implementados._
 
-## Pre-requisitos 📋
+### Pre-requisitos 📋
   El siguiente código fue probado en Jupyter Lab con python3.
   
   Se recomienda realizar un entorno virtual para hacer las instalaciones de librerías, así:
@@ -29,7 +29,7 @@ python3 -m venv --system-site-packages ./kittiv
         
   (Las instalaciones de las librerías se hicieron por medio de pip)
  
-## Instalar librerías especiales 🔧
+### Instalar librerías especiales 🔧
 
 Con el entorno virtual **activado**, ejecutar:
 ```
@@ -44,7 +44,7 @@ Para más documentación sobre HDBSCAN: https://hdbscan.readthedocs.io/en/latest
 
 Para más documentación sobre algortimos de clustering con scikit learn: https://scikit-learn.org/stable/modules/clustering.html
 
-## Abrir archivo .ipynb en Jupyter⚙️
+### Abrir archivo .ipynb en Jupyter⚙️
 
 Se usa el siguiente comando para ejecutar Jupyter Lab (con el entorno virtual **activado**):
 ```
