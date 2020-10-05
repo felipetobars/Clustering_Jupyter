@@ -39,4 +39,4 @@ Para más documentación sobre Open3D: http://www.open3d.org/docs/release/index.
 
 Para más documentación sobre HDBSCAN: https://hdbscan.readthedocs.io/en/latest/index.html
 
-Para más documentación sobre algortimos de clusterin con scikit learn: https://scikit-learn.org/stable/modules/clustering.html
+Para más documentación sobre algortimos de clustering con scikit learn: https://scikit-learn.org/stable/modules/clustering.html
