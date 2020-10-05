@@ -24,13 +24,16 @@ python3 -m venv --system-site-packages ./kittiv
    
    Para cerrar el entorno virtual:
     ```
-         source kittiv/bin/activate
+         deactivate
         ```
         
   (Las instalaciones de las librerías se hicieron por medio de pip)
  
 ## Instalar librerías especiales 🔧
+
+Con el entorno virtual **activado**, ejecutar:
 ```
+pip install jupyterlab
 pip install open3d-python
 pip install hdbscan
 ```
@@ -40,3 +43,12 @@ Para más documentación sobre Open3D: http://www.open3d.org/docs/release/index.
 Para más documentación sobre HDBSCAN: https://hdbscan.readthedocs.io/en/latest/index.html
 
 Para más documentación sobre algortimos de clustering con scikit learn: https://scikit-learn.org/stable/modules/clustering.html
+
+## Abrir archivo .ipynb en Jupyter⚙️
+
+Se usa el siguiente comando para ejecutar Jupyter Lab (con el entorno virtual **activado**):
+```
+jupyter lab
+```
+
+(El archivo .ipynb puede correr en otro entorno **local** difente al de Jupyter, pero se presentan problemas en entornos como el de Google Colab porque no permite ejecutar las ventanas emergentes de Open3D).
