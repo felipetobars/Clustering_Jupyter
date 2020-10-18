@@ -7,7 +7,8 @@ Segmentación del suelo con RANSAC:
 ![planeRANSACsegmentation](https://user-images.githubusercontent.com/55366335/96387537-67c27400-1168-11eb-8265-4cdff214bdf6.png)
 Clustering con Kmeans (parámetros modificables):
 ![kmeans_clustering](https://user-images.githubusercontent.com/55366335/96387596-e9b29d00-1168-11eb-995c-6437453a690c.png)
-
+DBSCAN>>Density-Based Spatial Clustering of Applications with Noise (parámetros modificables):
+![DSCAN](https://user-images.githubusercontent.com/55366335/96387680-97be4700-1169-11eb-93bc-6a25652abb95.png)
 ## Comenzando 🚀
 
 ### Pre-requisitos 📋
