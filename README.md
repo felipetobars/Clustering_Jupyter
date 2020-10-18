@@ -1,6 +1,11 @@
 # Clustering_Jupyter
 
 _Se recomienda leer el reporte final donde se explica cuales variables se pueden modificar para cambiar la ruta donde se tienen los datos binarios y también cuales parámetros se pueden ajustar para cambiar el rendimiento de los algoritmos implementados._
+
+## Preview
+![planeRANSACsegmentation](https://user-images.githubusercontent.com/55366335/96387537-67c27400-1168-11eb-8265-4cdff214bdf6.png)
+
+
 ## Comenzando 🚀
 
 ### Pre-requisitos 📋
