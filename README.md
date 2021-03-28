@@ -1,3 +1,5 @@
+HOLA POR FAVOR RECHAZA ESTE PULL REQUEST
+
 # Clustering_Jupyter
 
 _Se recomienda leer el reporte final donde se explica cuales variables se pueden modificar para cambiar la ruta donde se tienen los datos binarios y también cuales parámetros se pueden ajustar para cambiar el rendimiento de los algoritmos implementados._
